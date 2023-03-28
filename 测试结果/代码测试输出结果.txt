@@ -1,0 +1,40 @@
+The elevator is No.1Elevator,  Peoplecount:1,WeightCount:100KG,Elevator Stay in 1 Floor,MaxWeight:100kg, MaxPeople:1
+ServeFloor:-1,1,2,3,4,5,6,7,8,9,10,
+The elevator is up status
+Now PeopleCount: 1  WeightCount : 100  CurrentFloor:  1  Status:  1 
+
+4 
+
+100000 
+
+29 
+
+37 
+
+Upsequence:
+1  
+5  
+6  
+9  
+10  
+Downsequence:
+0  
+1
+10
+-1
+1
+==========
+0
+0
+Currentfloor: 1
+3
+185
+Currentfloor: 5
+2
+135
+Currentfloor: 10
+0
+0
+Currentfloor: 1
+5
+350
